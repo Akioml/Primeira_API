@@ -6,7 +6,6 @@ Uma API REST desenvolvida com FastAPI para gerenciamento de personagens de RPG
 
 - Python 
 - FastAPI
-- Pydantic
 
 ## Funcionalidaes 
 
